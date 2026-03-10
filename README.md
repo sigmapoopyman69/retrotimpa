@@ -14,12 +14,12 @@
         </div>
         <script>
             EJS_player = "#game";
-            EJS_core = "n64";
-            EJS_gameName = "Paper Mario";
+            EJS_core = "snes";
+            EJS_gameName = "DKC";
             EJS_color = "#0064ff";
             EJS_startOnLoaded = true;
             EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-            EJS_gameUrl = "Paper_Mario_(USA)[1].z64";
+            EJS_gameUrl = "Donkey Kong Country (USA) (Rev 2).sfc";
         </script>
         <script src="https://cdn.emulatorjs.org/stable/data/loader.js"></script>
     </body>
